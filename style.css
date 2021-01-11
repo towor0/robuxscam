@@ -1,4 +1,34 @@
 #inputs {
     font-family: Arial;
-    color: green;
+    border: 3px black solid;
+    background-color: green;
+    border-radius: 15px;
+    padding: 30px;
+    font-size:large;
+}
+
+html{
+    text-align:center;
+}
+
+#header a{
+    background: green;
+    border: 1px solid green;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    padding: 14px;
+    text-decoration: none;
+}
+
+#start{
+    background: green;
+    border: 1px solid green;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    padding: 14px;
+    text-decoration: none;
 }
