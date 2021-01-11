@@ -7,8 +7,13 @@
     font-size:large;
 }
 
-html{
+#inputs label{
+    
+} 
+
+*{
     text-align:center;
+    box-sizing: border-box;
 }
 
 #header a{
